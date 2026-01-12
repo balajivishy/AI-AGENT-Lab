@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Runtime memory / data
+memory.json
+
+# Virtual environments
+agent_env/
+venv/
+pyvenv.cfg
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+
