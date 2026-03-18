@@ -1,0 +1,11 @@
+Artificial Intelligence (AI) is the field of building machines that can perform tasks requiring human intelligence.
+
+Machine Learning (ML) is a subset of AI that focuses on learning patterns from data.
+
+Deep Learning is a subset of ML that uses neural networks with many layers.
+
+Large Language Models (LLMs) are trained on massive text corpora to predict the next token.
+
+Reinforcement Learning trains agents through rewards and penalties.
+
+AI agents combine LLMs with tools, memory, and planning to perform tasks autonomously.
